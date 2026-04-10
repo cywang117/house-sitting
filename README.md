@@ -134,11 +134,13 @@ Please do not to exceed 2 chicken pieces for Mimi, 4 chicken pieces for Pepper, 
 
 Mimi occasionally vomits when he's having a bad day. This has become rarer as we've worked with our vet to find the right dose of medicine for him. If vomiting does occur, all accidents may be cleaned up with wet paper towels if on bare floor.
 
-Mimi has puked in his Costco cat scratcher house a few times, which we've cleaned up with wet paper towel. It's fine if the wet paper towel cannot clean up all the vomit in the cardboard cracks of the scratcher, as we intend to replace that scratcher soon. Please do let us 
+Mimi has puked in his Costco cat scratcher house a few times, which we've cleaned up with wet paper towel. It's fine if the wet paper towel cannot clean up all the vomit in the cardboard cracks of the scratcher, as we intend to replace that scratcher soon. Please do let us know if that happens.
 
 If vomiting occurs on a rug or other cloth surface, scoop up the vomit with paper towel, then blot with wet paper towel until majority of stain is gone. There will likely be some stain remaining, which you can spray with enzymatic pet cleaning spray, which is in the downstairs bathroom:
 
 ![Enzymatic spray location](TODO)
+
+Allow the spray to penetrate the stain for 15min, then blot dry with paper towel. Please let us know if an accident happens and the location, and whether Mimi is behaving normally afterwards.
 
 # Other apartment things
 

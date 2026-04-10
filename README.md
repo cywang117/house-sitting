@@ -6,11 +6,19 @@ Hint: Navigate using the table of contents button:
 
 > Note that this table of contents screencap may be outdated and does not reflect the current status of the manual.
 
+## Key and entrance
+
+Please note that the front door locks automatically on close, so keep the key on you at all times to prevent issues with being locked out.
+
+![Key](TODO)
+
+NOTE: To open the door, it is necessary to pull the handle towards you while turning the key to unlock.
+
 # Mimi and Pepper
 
 ![Mimi and Pepper](./static/mimipepe.jpeg)
 
-Thank you for agreeing to look after our house kitties. We see our cats as part of our family and hope you'll be able to befriend them during your time sitting for us.
+Thank you for agreeing to look after our house and kitties. We see our cats as part of our family and hope you'll be able to befriend them during your time sitting for us.
 
 ## Feeding
 

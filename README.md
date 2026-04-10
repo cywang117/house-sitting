@@ -1,219 +1,148 @@
-# Apartment Sitting
-Apartment sitting manual for Christina & Michael ❤️
+# House Sitting
+House sitting manual for Christina & Michael ❤️
 
 Hint: Navigate using the table of contents button:
 ![ToC](./static/toc.png)
+
+> Note that this table of contents screencap may be outdated and does not reflect the current status of the manual.
 
 # Mimi and Pepper
 
 ![Mimi and Pepper](./static/mimipepe.jpeg)
 
+Thank you for agreeing to look after our house kitties. We see our cats as part of our family and hope you'll be able to befriend them during your time sitting for us.
+
 ## Feeding
 
-Mimi and Pepper are fed on a schedule, three times a day:
+Mimi and Pepper are fed on a schedule. Two of their meals are automatically dispensed by their feeders at 9AM and 4PM and should not require manual intervention. Their nighttime feeding/medicine dispensing is ideally between 8PM and 11PM.
 
-1. Morning feeding, between 10AM-12PM, wet meal
-2. Afternoon feeding, between 4PM-6PM, dry meal
-3. Night feeding, between 10PM-12AM, wet meal with medicine for Mimi
+For nighttime feeding:
+- Pepper eats 5/12 a can of American Journey per meal (you can eyeball it, just slightly less than half a can)
+- Mimi does not take a nighttime meal, but needs to take his medicine.
 
-### Wet meals
+### Pepper's wet meal
 
-Leftover wet food from previous feeding is stored covered or Ziploc-ed in the fridge. Sachets are stored in the glass on the door:
+Leftover wet food from previous feeding is stored covered in the fridge.
 
-![Mimi food stored](./static/mimi-hills-stored.jpeg)
-![Sachets stored](./static/wet-stored.jpeg) 
+![Pepper leftover food stored](TODO)
 
-Pepper's canned Blue Mountain may be stored in the small glass snapware:
-![Tupperware](./static/tupperware.jpeg)
+Fresh containers of wet food are in the pantry in kitchen/dining area.
 
-Fresh containers of wet food are on the shelf in the living room:
+![Wet food location in pantry](TODO)
+![Full wet food containers](TODO)
 
-![Full wet food containers](./static/wet-food-stored.jpeg)
+Pepper eats 5/12 a can of American Journey per meal. You can eyeball it, just slightly less than half a can. See proportions below:
 
-Pepper eats 2/5 a sachet of Gravies, or half a can of Blue Mountain. See proportions below:
+![Proportions for Pepper's feeding](TODO)
 
-![Gravies](./static/pepe-gravies.jpeg)
-![Blue Mountain](./static/pepe-wet.jpeg)
-![Proportions for Pepper's feeding](./static/pepper-fortiflora.jpeg)
+Microwave the wet meal, covered with white silicone cover, for 16 seconds. The white silicone cover is by the sink:
 
-Mimi eats a scoop of Hill's K/D chicken pate, mixed with some Delectables bisque and a spoonful of water. Be sure to mix the 3 components well as Mimi doesn't like chunky textures. See proportions below:
+![White silicone cover](TODO)
+![Cover on food](TODO)
 
-![K/D Food](./static/mimi-hills.jpeg)
-![Scoop size for Mimi's feeding](./static/mimi-scoop.jpeg)
-![Proportions for Mimi's feeding](./static/mimi-proportions.jpeg)
-![Fortiflora on Mimi food](./static/mimi-fortiflora.jpeg)
+Please rinse the silicone cover after microwaving.
 
-Microwave each meal, covered with green silicone cover, for 12 seconds each. The green silicone cover is by the sink:
+After microwaving, sprinkle Pepper's meal with 1/4 satchet of Fortiflora, or just enough to cover the entire meal:
 
-![Green silicone cover](./static/silicone-cover.jpeg)
-![Cover on food](./static/covered-wet-food.jpeg)
+![Fortiflora on Pepper food](TODO)
 
-After microwaving, sprinkle each meal with 1/4 satchet of Fortiflora, or just enough to cover the entire meal:
+Fortiflora is stored by the microwave:
 
-![Fortiflora on Mimi food](./static/mimi-fortiflora.jpeg)
-![Fortiflora on Pepper food](./static/pepper-fortiflora.jpeg)
+![Fortiflora](TODO)
+![Fortiflora location](TODO)
 
-Fortiflora is stored in the pantry:
+Pepper eats by the cat water fountain. Mimi has occasionally attempted to steal Pepper's food, so please keep an eye on Pepper while she's eating. Mimi can't have Pepper's food as it's higher protein than his diet allows.
 
-![Fortiflora](./static/fortiflora.jpeg)
-![Fortiflora location](./static/fortiflora-stored.jpeg)
-
-Finally, add a dot of Churu on top of each meal:
-
-![Churu on Mimi food](./static/mimi-churu.jpeg)
-![Churu on Pepper food](./static/pepper-churu.jpeg)
-![Churu location](./static/churu.jpeg)
-
-Mimi and Pepper eat in different rooms with the door closed, as they like to steal each others' food. Mimi can't have high protein meals, and Pepper shouldn't have the K/D diet either for each of their health. Mimi eats in the kitchen, and Pepper eats in the bedroom:
-
-![Mimi in kitchen](./static/mimi-eating.jpeg)
-![Pepper in bedroom](./static/pepper-eating.jpeg)
-
-Please close the bedroom door while Pepper is eating. Watch out for her tail!
-
-Mimi may not finish all of his food. Leftovers for Mimi are stored, covered by the silicone cover, in the fridge, for addition to the next meal. If the next meal is dry, start with the leftover wet food (microwaved 12 seconds) and top up with dry food.
-
-![Leftovers](./static/mimi-leftover.jpeg)
-![Leftovers stored](./static/mimi-stored-food.jpeg)
+![Pepper eating](TODO)
 
 ### Dry meals
 
-Dry food is stored in the pantry. Both kitties eat 1/4 cup of dry food from their labeled containers for their midday feeding. Wet the food with a little bit of water so they stay hydrated.
+Dry food is dispensed automatically for both cats at 9AM and 4PM, so should not require manual feeding, especially for Pepper. For Mimi, he gets an additional dry meal dispensed at 11PM. If you see that Mimi's bowl is consistently empty, please let me know with a photo, and if I decide that Mimi requires an extra feeding, please manually dispense some dry food using the following controls.
+
+Hold down the lock button until the dispenser unlocks (it will say so):
+
+![Lock button](TODO)
+
+Press the feed button to dispense some dry food:
+
+![Food dispense button](TODO)
+
+If either dispenser reports low food levels, additional dry food is stored in the utility closet:
+
+![Dry food location with labels](TODO)
+
+Open the top of the dispenser by pressing both latches on the left and right side down and sliding up, and fill with food. This should not be necessary in the time that Christina & Michael are traveling but is described here for reference.
+
+![Dispenser latches](TODO)
+![Dispenser interior](TODO)
 
 ### Mimi's medicine
 
-Mimi takes 0.65mL of Telmisartan daily for his blood pressure. He has this before his nighttime meal. Location of the medicine:
+Mimi takes 0.65mL of Telmisartan and 1.0mL of Amlodipine nightly for his blood pressure. Medicine is located in the fridge on the door and should be returned to the fridge after use.
 
-![Medicine location](./static/mimi-medicine.jpeg)
+![Medicine location](TODO)
 
-Syringe is white and is located in the dish drying rack. You'll have the eyeball the 0.65 dose as the lines for it aren't there.
-![Syringe](./static/mimi-syringe.jpeg)
+Syringe is white and is located in the dish drying rack.
 
-Medicine should be placed in food bowl and topped with Churu. Don't microwave!
-![Medicine proportions](./static/mimi-medicine-churu.jpeg)
+![Syringe location](TODO)
 
-If Mimi finishes eating the Churu but there's still some medicine, add a bit more Churu. You'll have to keep Pepper distracted with Churu during this process as she will try to have some medicine too.
+Medicine dosage for Telmisartan:
+
+![Telmisartan dosage](TODO)
+
+Medicine dosage for Amlodipine:
+
+![Amlodipine dosage](TODO)
+
+Medicine should be placed in food bowl and topped with Churu, then some crumbs of Trader Joe's Just Chicken for Pets. Don't microwave!
+
+![Medicine proportions](TODO)
+
+Keep an eye on Pepper while Mimi is eating medicine. She's generally good about knowing she shouldn't have any, but may try to sneak some. Having Pepper eat her dinner while Mimi is taking his medicine is a good way to keep both cats away from each other's food.
 
 ## Litter box
 Mimi and Pepper use the Litterbot, an automated litterbox. It detects (for the most part) when they've used the bot, and cycles automatically. The light will remain a solid blue while the bot is functional. At nighttime, the bot will enter "sleep mode" and a solid yellow LED will also light up.
 
-When the bot is full, the blue LED will flash instead of being solid, and the bag under the bot will need to be replaced. This should happen about once a week so it's pretty low-maintenance. [Here](https://youtu.be/e4PaCFL1js0?t=30) is a short video about how to empty the litterbot. Replacement plastic bags are on the shelf above the printer.
+When the bot is full, the blue LED will flash instead of being solid, and the bag under the bot will need to be replaced. This should happen about once a week so it's pretty low-maintenance. [Here](https://www.youtube.com/watch?v=CM6vQSPLGxk) is a short video about how to empty the litterbot. Replacement plastic bags are located to the right of the Litterbot.
 
 ## Water
 
-Mimi and Pepper sometimes drink from the water fountain in the kitchen. It should be fine to leave alone for the two weeks.
+Mimi and Pepper sometimes drink from the water fountain in the living room. It should be fine to leave alone for the two weeks.
 
 ## Snacks
 
-Mimi and Pepper enjoy the Churu tube and Blue Mountain Bursts. The Bursts are stored in the fridge:
+Mimi and Pepper enjoy Churu tube snack and Trader Joe's Just Chicken for Cats. These are both located by the microwave.
 
-![Bursts](./static/bursts-snack.jpeg)
-
-Please try not to exceed ~4 bursts and a teaspoon of Churu per cat per day!
+Please do not to exceed 2 chicken pieces for Mimi, 4 chicken pieces for Pepper, and a half tube of Churu per cat per day (aside from the amount Mimi will eat as part of his medicine).
 
 ## Playtime & quirks
 
-- Mimi likes to sit by the sink waiting for you to turn on the water so he can drink
-- Both kitties like to play with string
+- Mimi likes to sit by the sink waiting for you to turn on the water so he can drink. We also have a cup of water by the sink, which he likes to drink from and should be refilled when the level dips below 1cm from rim.
+- Pepper likes to play with the feather wand which is located on top of the IKEA shelving in the living room:
+
+![Feather wand location](TODO)
 
 ## Accidents
 
-All accidents with vomit may be cleaned up with a combination of paper towels, wet wipes, and enzymatic pet cleaning spray if the stain is persistent. Wet wipes and spray are both in the bathroom. The teal towels can also be used if necessary.
+Mimi occasionally vomits when he's having a bad day. This has become rarer as we've worked with our vet to find the right dose of medicine for him. If vomiting does occur, all accidents may be cleaned up with wet paper towels if on bare floor.
 
-![Wet wipes](./static/wipes.jpeg)
-![Spray](./static/spray.jpeg)
+Mimi has puked in his Costco cat scratcher house a few times, which we've cleaned up with wet paper towel. It's fine if the wet paper towel cannot clean up all the vomit in the cardboard cracks of the scratcher, as we intend to replace that scratcher soon. Please do let us 
 
-Mimi is an anxious cat and may pee outside the litterbox. Hopefully this doesn't happen as he did this a lot when he had a UTI. When this happens, blot up the pee with paper towels, then spray enzymatic cleaner and leave in according to the directions on the bottle. Blot up with paper towels or teal towels.
+If vomiting occurs on a rug or other cloth surface, scoop up the vomit with paper towel, then blot with wet paper towel until majority of stain is gone. There will likely be some stain remaining, which you can spray with enzymatic pet cleaning spray, which is in the downstairs bathroom:
 
-Warning: Mimi did pee on the bed a few times while he had a UTI. All the sheets, mattress covers, pillows (except the memory foam ones), and pillowcases are machine-washable. Block access to the head of the bed with pillows as the mattress covers don't protect the sides of the mattress.
-
-# Houseplants
-
-There are five categories of plants: succulents, plants in semi-hydro (with inorganic substrates of pon or leca and visible water reservoirs), plants in soil, carnivorous plants, and crops in the grow tent.
-
-Note: the grow lights over the plant rack near the balcony door are HOT. Please be careful!
-
-Note 2: If you run out of distilled water, feel free to use filtered tap water, but add a drop of tap water conditioner:
-
-![Tap water conditioner](./static/tap-water-conditioner.jpeg)
-
-Note 3: Any new leaves that are cute, or any plants that start struggling, please send a pic!
-
-## Succulents
-
-Succulents both inside and outside can be left alone for the two weeks, they will be fine.
-
-## Semi-hydro
-
-Plants in semi-hydro are comprised of the entire bottom shelf of the plant cabinet, three plants on the middle shelf that are in leca, the two hanging plants by the balcony door, and the Monstera aurea in the bedroom.
-
-Please top up plants in semi-hydro with Hydroguard when the water line falls below the substrate line (this should take around a week but varies). You may need to make a fresh batch of Hydroguard. You can use distilled water stored in bottles or from the A/C for this. The Hydroguard concentrate is stored on the bookshelf. The amount of Hydroguard per bottle is labeled on the bottle itself:
-
-![Hydroguard](./static/hydroguard.jpeg)
-![Hydroguard location](./static/hydroguard-location.jpeg)
-![Hydroguard and BTI](./static/hydroguard-BTI.jpeg)
-
-## Plants in soil
-
-Plants in soil are comprised of the outdoor plants (excluding succulents), the Monstera in the bedroom, the non-hanging plants on the rack by the balcony door, and the rest of the plants in the cabinet. The plants in the cabinet are a bit crowded so you can take them out when watering, and water them in the tub and let them drain before returning them.
-
-I've been watering all the plants in soil about once a week, and they've been fine. When watering using the watering can, combine foliage pro in the gallon jug with distilled water, and add a drop of anti fungus-gnat liquid.
-
-![Foliage Pro](./static/foliage-pro.jpeg)
-
-## Carnivorous plants
-
-Carnivorous plants are the five small pots sitting in water near the top of the plant cabinet:
-
-![Carnivorous plants](./static/carnivorous-plants.jpeg)
-
-Unlike the other plants which can tolerate filtered tap water if necessary, these plants should ONLY be watered with distilled water.
-
-Watering is simple: just top up the shelf with distilled water up to an inch when you see that it's running low. I transfer water to this small bottle for easy pouring:
-
-![Bottle of distilled water](./static/distilled-water.jpeg)
-
-## Propagation tub
-
-There is a propagation tub with some hoya cuttings in it to the left of the TV on the floor. It should be fine for the two weeks.
-
-## Grow tent
-
-The basil and bush beans are the only crops that require watering daily. The radishes and mint are on the decline but you can give the mint some water if you remember. Split a watering can of water between the basil & beans. Please feel free to use all the basil you want as it's a bit overgrown!
-
-If you see any flowers on the basil, trim them off. Also harvest any bush beans you see if they're ripe.
-
-# Mushrooms
-
-Christina is growing a tub of chestnut mushrooms by the shoe rack. It's experimental so if anything interesting happens, please let Christina know! Otherwise, keep the tub moist by misting with the water mister on top of the tub.
+![Enzymatic spray location](TODO)
 
 # Other apartment things
 
-## A/C
-
-The air conditioner produces a lot of water while active, especially in medium / high settings. Please don't leave it unattended when running (such as overnight). You can collect it for use in watering plants, and dump any excess. You can use the distilled gallon water jugs by the grow tent.
-
 ## Location of supplies
 
-- Paper towels: in Michael's office in the closet
-- Toilet paper: on the shelf next to the washer and dryer
-- Drying rack for hang-dry clothes: on the balcony
-- Spare bedsheets & pillowcases: in the bedside table drawers
-
-## Maintenance
-
-We submit maintenance requests through a website which requires login. You can text us if there's a problem that's not urgent. If there's a maintenance emergency, call (800) 307-3154.
-
-The apartment office is downstairs in the adjacent building, and office hours are M-F 8-5.
+- Paper towels: by kitchen sink
+- Toilet paper: in the upstairs non-master bathroom
 
 ## Misc
 
-- Our parking spot is #38
-
-- Feel free to use and eat anything in the apartment, including weed and 🍄
-
 - Please keep both Christina and Michael's PCs on, as Christina may remote into her PC to run maintenance on her servers.
 
-- There's a gym with a treadmill, bike machine, and some weights near the apartment office.
+- Feel free to use the gym equipment, but please be careful.
 
 - Finally, thanks again~ And anything else I missed, please text ❤️

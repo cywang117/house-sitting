@@ -102,7 +102,7 @@ Medicine dosage for Amlodipine:
 
 ![Amlodipine dosage](TODO)
 
-Medicine should be placed in food bowl and topped with Churu, then some crumbs of Trader Joe's Just Chicken for Pets. Don't microwave!
+Medicine should be placed in food bowl and topped with Churu, then 1/4 satchet Fortiflora, then some crumbs of Trader Joe's Just Chicken for Pets. Don't microwave!
 
 ![Medicine proportions](TODO)
 

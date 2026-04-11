@@ -142,7 +142,11 @@ If vomiting occurs on a rug or other cloth surface, scoop up the vomit with pape
 
 Allow the spray to penetrate the stain for 15min, then blot dry with paper towel. Please let us know if an accident happens and the location, and whether Mimi is behaving normally afterwards.
 
-# Other apartment things
+## Emergencies
+
+If an emergency requires that Mimi and Pepper need to leave the house, their pet carriers will be in the downstairs studio closet. Mimi will most likely not be hiding, while Pepper will definitely be hiding. Places to look for her are under the bed upstairs, in the closet upstairs, and under the rug in the spare room adjacent to Michael's office.
+
+# Other house things
 
 ## Location of supplies
 

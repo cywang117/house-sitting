@@ -63,6 +63,8 @@ Pepper eats by the cat water fountain. Mimi has occasionally attempted to steal 
 
 ![Pepper eating](TODO)
 
+Empty food cans may be rinsed clean and placed in recycling (by the front door).
+
 ### Dry meals
 
 Dry food is dispensed automatically for both cats at 9AM and 4PM, so should not require manual feeding, especially for Pepper. For Mimi, he gets an additional dry meal dispensed at 11PM. If you see that Mimi's bowl is consistently empty, please let me know with a photo, and if I decide that Mimi requires an extra feeding, please manually dispense some dry food using the following controls.

@@ -10,7 +10,7 @@ Hint: Navigate using the table of contents button:
 
 Please note that the front door locks automatically on close, so keep the key on you at all times to prevent issues with being locked out.
 
-![Key](TODO)
+![Key](./static/key.jpeg)
 
 NOTE: To open the door, it is necessary to pull the handle towards you while turning the key to unlock.
 
@@ -30,88 +30,103 @@ For nighttime feeding:
 
 ### Pepper's wet meal
 
+Pepper's food dish is located by the cat fountain near the patio door. 
+
+![Pepper's feeding spot](./static/pepper-feeding-spot.jpeg)
+
 Leftover wet food from previous feeding is stored covered in the fridge.
 
-![Pepper leftover food stored](TODO)
+![Pepper leftover food stored](./static/pepper-leftovers.jpeg)
 
 Fresh containers of wet food are in the pantry in kitchen/dining area.
 
-![Wet food location in pantry](TODO)
-![Full wet food containers](TODO)
+![Wet food location in pantry](./static/pepper-wet-food-pantry.jpeg)
 
-Pepper eats 5/12 a can of American Journey per meal. You can eyeball it, just slightly less than half a can. See proportions below:
+Pepper eats 5/12 a can of American Journey per meal, with a dash of water. You can use the plastic spoon in the dish drying rack. Please sure to wash the spoon clean after every use.
 
-![Proportions for Pepper's feeding](TODO)
+![Plastic spoon location](./static/spoon-syringe.jpeg)
 
-Microwave the wet meal, covered with white silicone cover, for 16 seconds. The white silicone cover is by the sink:
+You can eyeball it, just slightly less than half a can. See proportions below:
 
-![White silicone cover](TODO)
-![Cover on food](TODO)
+![Proportions for Pepper's feeding](./static/pepper-proportions.jpeg)
+
+Microwave the wet meal + water, covered with white silicone cover, for 16 seconds. The white silicone cover is by the sink:
+
+![White silicone cover](./static/silicone-cover.jpeg)
+![Cover on food](./static/cover-on-food.jpeg)
 
 Please rinse the silicone cover after microwaving.
 
 After microwaving, sprinkle Pepper's meal with 1/4 satchet of Fortiflora, or just enough to cover the entire meal:
 
-![Fortiflora on Pepper food](TODO)
+![Fortiflora on Pepper food](./static/pepper-food-fortiflora.jpeg)
 
 Fortiflora is stored by the microwave:
 
-![Fortiflora](TODO)
-![Fortiflora location](TODO)
+![Fortiflora](./static/fortiflora-location.jpeg)
 
 Pepper eats by the cat water fountain. Mimi has occasionally attempted to steal Pepper's food, so please keep an eye on Pepper while she's eating. Mimi can't have Pepper's food as it's higher protein than his diet allows.
 
-![Pepper eating](TODO)
-
-Empty food cans may be rinsed clean and placed in recycling (by the front door).
+Empty food cans may be rinsed clean and placed in the blue recycling bin (by the front door).
 
 ### Dry meals
 
 Dry food is dispensed automatically for both cats at 9AM and 4PM, so should not require manual feeding, especially for Pepper. For Mimi, he gets an additional dry meal dispensed at 11PM. If you see that Mimi's bowl is consistently empty, please let me know with a photo, and if I decide that Mimi requires an extra feeding, please manually dispense some dry food using the following controls.
 
+![Dry meal dispensers](./static/dry-meal-dispensers.jpeg)
+
+> Fun fact: "Oos" is one of our nicknames for Mimi, and "Pepe" is one of our nicknames for Pepper.
+
 Hold down the lock button until the dispenser unlocks (it will say so):
 
-![Lock button](TODO)
+![Lock button](./static/dispenser-lock.jpeg)
 
 Press the feed button to dispense some dry food:
 
-![Food dispense button](TODO)
+![Food dispense button](./static/dispenser-food.jpeg)
 
 If either dispenser reports low food levels, additional dry food is stored in the utility closet:
 
-![Dry food location with labels](TODO)
+![Dry food location with labels](./static/dry-food-location.jpeg)
 
-Open the top of the dispenser by pressing both latches on the left and right side down and sliding up, and fill with food. This should not be necessary in the time that Christina & Michael are traveling but is described here for reference.
-
-![Dispenser latches](TODO)
-![Dispenser interior](TODO)
+Open the top of the dispenser by pressing both latches on the left and right side down and sliding up, and fill with food. This should not be necessary in the time that Christina & Michael are traveling, but here is a video (at timestamp 1:44) detailing how to do so: https://youtu.be/gaOvFO533T0?t=105
 
 ### Mimi's medicine
 
-Mimi takes 0.65mL of Telmisartan and 1.0mL of Amlodipine nightly for his blood pressure. Medicine is located in the fridge on the door and should be returned to the fridge after use.
+Mimi takes 0.65mL of Telmisartan and 1.0mL of Amlodipine nightly for his blood pressure. Medicine is located in the fridge on the door and should be returned to the fridge after use. Please double check the medicine label is the correct one as there are other prescriptions that aren't to be given to Mimi daily.
 
-![Medicine location](TODO)
+![Medicine location](./static/medicine-location.jpeg)
 
 Syringe is white and is located in the dish drying rack.
 
-![Syringe location](TODO)
+![Syringe location](./static/spoon-syringe.jpeg)
 
-Medicine dosage for Telmisartan:
+Medicine dosage for Telmisartan (0.65mL):
 
-![Telmisartan dosage](TODO)
+![Telmisartan dosage](./static/telmisartan-dose.jpeg)
 
-Medicine dosage for Amlodipine:
+Medicine dosage for Amlodipine (1.0mL):
 
-![Amlodipine dosage](TODO)
+![Amlodipine dosage](./static/amlodipine-dose.jpeg)
 
-Medicine should be placed in food bowl and topped with Churu, then 1/4 satchet Fortiflora, then some crumbs of Trader Joe's Just Chicken for Pets. Don't microwave!
+Please rinse out the syringe and return to dish rack after each use.
 
-![Medicine proportions](TODO)
+Medicine should be placed in food bowl and topped with Churu, then 1/4 satchet Fortiflora, then some crumbs of Trader Joe's Just Chicken/Salmon for Pets. Note that these are pre-pulverised crumbs from the TJ's cat treats, and are stored separately in a stainless steel container:
+
+![TJ crumbs location](./static/tj-crumbs.jpeg)
+
+The Churu and TJ's are located by the microwave and leftover Churu may be returned to the fridge by placing in the same location as the medicine. 
+
+![Churu location](./static/churu-location.jpeg)
+
+Please don't microwave the medicine! Proportions after preparing (hard to see medicine but it's under the Churu, Fortiflora, and TJ crumbs):
+
+![Medicine proportions](./static/medicine-proportions.jpeg)
 
 Keep an eye on Pepper while Mimi is eating medicine. She's generally good about knowing she shouldn't have any, but may try to sneak some. Having Pepper eat her dinner while Mimi is taking his medicine is a good way to keep both cats away from each other's food.
 
 ## Litter box
-Mimi and Pepper use the Litterbot, an automated litterbox. It detects (for the most part) when they've used the bot, and cycles automatically. The light will remain a solid blue while the bot is functional. At nighttime, the bot will enter "sleep mode" and a solid yellow LED will also light up.
+Mimi and Pepper use the Litterbot, an automated litterbox. Their Litterbot is located in the gym downstairs. It detects (for the most part) when they've used the bot, and cycles automatically. The light will remain a solid blue while the bot is functional. At nighttime, the bot will enter "sleep mode" and a solid yellow LED will also light up.
 
 When the bot is full, the blue LED will flash instead of being solid, and the bag under the bot will need to be replaced. This should happen about once a week so it's pretty low-maintenance. [Here](https://www.youtube.com/watch?v=CM6vQSPLGxk) is a short video about how to empty the litterbot. Replacement plastic bags are located to the right of the Litterbot.
 
@@ -121,16 +136,16 @@ Mimi and Pepper sometimes drink from the water fountain in the living room. It s
 
 ## Snacks
 
-Mimi and Pepper enjoy Churu tube snack and Trader Joe's Just Chicken for Cats. These are both located by the microwave.
+Mimi and Pepper enjoy Churu tube snack and Trader Joe's Just Chicken/Salmon for Cats. These are both located by the microwave.
 
-Please do not to exceed 2 chicken pieces for Mimi, 4 chicken pieces for Pepper, and a half tube of Churu per cat per day (aside from the amount Mimi will eat as part of his medicine).
+Please do not to exceed 2 chicken/salmon pieces for Mimi, 4 chicken/salmon pieces for Pepper, and a half tube of Churu per cat per day (aside from the amount Mimi will eat as part of his medicine). The TJ's cat treat crumbs should be set aside for use as topping on Mimi's medicine only, to ensure he takes it.
 
 ## Playtime & quirks
 
 - Mimi likes to sit by the sink waiting for you to turn on the water so he can drink. We also have a cup of water by the sink, which he likes to drink from and should be refilled when the level dips below 1cm from rim.
-- Pepper likes to play with the feather wand which is located on top of the IKEA shelving in the living room:
+- Pepper likes to play with the feather wand which is located on top of the IKEA shelving in the living room. Please replace the wand to that location after use, otherwise Pepper will chew it to shreds.
 
-![Feather wand location](TODO)
+![Feather wand location](./static/feather-wand-location.jpeg)
 
 ## Accidents
 
@@ -140,7 +155,7 @@ Mimi has puked in his Costco cat scratcher house a few times, which we've cleane
 
 If vomiting occurs on a rug or other cloth surface, scoop up the vomit with paper towel, then blot with wet paper towel until majority of stain is gone. There will likely be some stain remaining, which you can spray with enzymatic pet cleaning spray, which is in the downstairs bathroom:
 
-![Enzymatic spray location](TODO)
+![Enzymatic spray location](./static/enzymatic-spray-location.jpeg)
 
 Allow the spray to penetrate the stain for 15min, then blot dry with paper towel. Please let us know if an accident happens and the location, and whether Mimi is behaving normally afterwards.
 
@@ -149,6 +164,8 @@ Allow the spray to penetrate the stain for 15min, then blot dry with paper towel
 If an emergency requires that Mimi and Pepper need to leave the house, their pet carriers will be in the downstairs studio closet. Mimi will most likely not be hiding, while Pepper will definitely be hiding. Places to look for her are under the bed upstairs, in the closet upstairs, and under the rug in the spare room adjacent to Michael's office.
 
 # Other house things
+
+Please check mail and packages daily and bring them in accordingly.
 
 ## Location of supplies
 
